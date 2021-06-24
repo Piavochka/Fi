@@ -1,7 +1,7 @@
 public class HomeWorkApp {
     // Задание №1
     public static void main(String[] args) {
-        //Задание №6, методы из пунктов 2-6 вызвоны из main
+        //Задание №6, методы из пунктов 2-5 вызвоны из main
         printTheeWords();
         checkSumSign();
         printColor9();
@@ -25,7 +25,6 @@ public class HomeWorkApp {
         } if (a + b < 0) {
             System.out.println("Сумма отричательная");
         }
-
     }
 
     //Задание №4
